@@ -16,17 +16,12 @@ def dfs(x, y):
     if x == N - 1:
         res = "YES"
         return
-    flag = True
     for i in range(4):
         nx = x + dx[i]
         ny = y + dy[i]
         if 0 <= nx < N and 0 <= ny < M and visited[nx][ny] == 0 and data[nx][ny] == 0:
             visited[nx][ny] = 1
             dfs(nx, ny)
-            flag = False
-
-    if flag:
-        return
 
 
 for i in range(M):
