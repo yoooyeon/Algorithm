@@ -18,7 +18,7 @@ def dfs(x, y, dist):
     move = int(data[x][y])
     ajlist = [[x + move, y], [x - move, y], [x, y + move], [x, y - move]]
     for nx, ny in ajlist:
-        if 0 <= nx < N and 0 <= ny < M and data[nx][ny] != 'H' and dist + 1 > dp[nx][ny]: # 범위 벗어나는지, 구멍인지, 최소 이동거리인지
+        if 0 <= nx < N and 0 <= ny < M and data[nx][ny] != 'H' and dist + 1 > dp[nx][ny]: # 범위 안벗어나는지, 구멍 아닌지, 최소 이동거리인지
             if not visited[nx][ny]:
                 visited[nx][ny] = True
                 dp[nx][ny] = dist + 1
