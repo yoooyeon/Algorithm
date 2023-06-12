@@ -1,25 +1,38 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/17685
-# TC 14, 19, 21, 22 실패
-from collections import defaultdict
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.prefix_count = 0
+
+
+def insert_word(root, word):
+    node = root
+    for char in word:
+        if char not in node.children:
+            node.children[char] = TrieNode()
+        node = node.children[char]
+        node.prefix_count += 1
+
+
+def count_prefixes(root, word):
+    node = root
+    count = 0
+    for char in word:
+        if char in node.children:
+            node = node.children[char]
+            count += 1
+            if node.prefix_count == 1:
+                break
+        else:
+            break
+    return count
 
 
 def solution(words):
     answer = 0
-    prefix_counter_dict = defaultdict(int)
+    root = TrieNode()
     for word in words:
-        for i in range(len(word)):
-            letter = word[:i + 1]
-            if letter in prefix_counter_dict.keys():
-                prefix_counter_dict[letter] += 1
-            else:
-                prefix_counter_dict[letter] = 1
+        insert_word(root, word)
     for word in words:
-        for i in range(len(word)):
-            letter = word[:i + 1]
-            if prefix_counter_dict[letter] > 1:
-                answer += 1
-            else:
-                answer += 1
-                break
-
+        answer += count_prefixes(root, word)
     return answer
