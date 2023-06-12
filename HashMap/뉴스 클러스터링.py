@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/17677
 from collections import defaultdict
 import math
 
