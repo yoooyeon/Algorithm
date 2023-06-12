@@ -1,4 +1,5 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/17685
+# TC 14, 19, 21, 22 실패
 from collections import defaultdict
 
 
