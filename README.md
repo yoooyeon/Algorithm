@@ -14,8 +14,8 @@
 ### 1주차
 
 | 날짜   | 문제 이름 | 문제 링크                                       | 완료|
-| ------ | ------- |-------------------------------------------- | ----|
-| 23.08.28 | 징검다리 건너기 | https://school.programmers.co.kr/learn/courses/30/lessons/64062 | |
+| :------: | :-------: |-------------------------------------------- | :--:|
+| 23.08.28 | 징검다리 건너기 | https://school.programmers.co.kr/learn/courses/30/lessons/64062 |&#9745;|
 | 23.08.29 | 양과 늑대 | https://school.programmers.co.kr/learn/courses/30/lessons/92343 ||
 | 23.08.30 | 소수 구하기 | https://www.acmicpc.net/problem/1929 ||
 | 23.08.31 | 베스트 앨범 | https://school.programmers.co.kr/learn/courses/30/lessons/42579 ||
@@ -24,7 +24,7 @@
 ### 2주차
 
 | 날짜   | 문제 이름 | 문제 링크                                       |완료|
-| ------ | ------- |-------------------------------------------- |----|
+| :------: | :-------: |-------------------------------------------- | :--:|
 | 23.09.04 | 상담원 인원 |https://school.programmers.co.kr/learn/courses/30/lessons/214288||
 | 23.09.05 | 옹알이(2) |https://school.programmers.co.kr/learn/courses/30/lessons/133499||
 | 23.09.06 | 경주로 건설 | https://school.programmers.co.kr/learn/courses/30/lessons/67259 ||
@@ -35,7 +35,7 @@
 ### 3주차
 
 | 날짜   | 문제 이름 | 문제 링크                                       |완료|
-| ------ | ------- |-------------------------------------------- |----|
+| :------: | :-------: |-------------------------------------------- | :--:|
 | 23.09.11 | 자석 |https://www.acmicpc.net/problem/28303 ||
 | 23.09.12 | 뉴스 전하기 | https://www.acmicpc.net/problem/1135 ||
 | 23.09.13 | 택배 배달과 수거하기 | https://school.programmers.co.kr/learn/courses/30/lessons/150369 ||
@@ -45,7 +45,7 @@
 ### 4주차
 
 | 날짜   | 문제 이름 | 문제 링크                                       |완료|
-| ------ | ------- |-------------------------------------------- |----|
+| :------: | :-------: |-------------------------------------------- | :--:|
 | 23.09.18 | 광고 삽입 | https://school.programmers.co.kr/learn/courses/30/lessons/72414 ||
 | 23.09.19 | 호텔 방 배정 | https://school.programmers.co.kr/learn/courses/30/lessons/64063 ||
 | 23.09.20 | 기둥과 보 설치 | https://school.programmers.co.kr/learn/courses/30/lessons/60061 ||
