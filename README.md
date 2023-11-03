@@ -19,7 +19,7 @@
 | 23.10.31 | 양과 늑대 | https://school.programmers.co.kr/learn/courses/30/lessons/92343 ||
 | 23.11.01 | 소수 구하기 | https://www.acmicpc.net/problem/1929 ||
 | 23.11.02 | 베스트 앨범 | https://school.programmers.co.kr/learn/courses/30/lessons/42579 ||
-| 23.11.03 | 후보키 | https://school.programmers.co.kr/learn/courses/30/lessons/42890 ||
+| 23.11.03 | 후보키 | https://school.programmers.co.kr/learn/courses/30/lessons/42890 |&#9745;|
 
 ### 2주차
 
