@@ -28,7 +28,7 @@
 | 23.11.04 | 상담원 인원 |https://school.programmers.co.kr/learn/courses/30/lessons/214288||
 | 23.11.05 | 옹알이(2) |https://school.programmers.co.kr/learn/courses/30/lessons/133499||
 | 23.11.06 | 경주로 건설 | https://school.programmers.co.kr/learn/courses/30/lessons/67259 ||
-| 23.11.07 | 우주신과의 교감 | https://www.acmicpc.net/problem/1774 ||
+| 23.11.07 | 우주신과의 교감 | https://www.acmicpc.net/problem/1774 |&#9745;|
 | 23.11.08 | 증가하는 수 | https://www.acmicpc.net/problem/10573 ||
 
 
